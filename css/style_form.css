@@ -1,0 +1,33 @@
+.wrapper{
+	width:60%;
+	margin:0 auto;
+	border:5px solid black;
+	padding: 10px;
+	background-color: orange;
+
+}
+.label1 ,.label2 , .label3 , .label4 , .label5 , .label6 , .label7{
+	font-size: 20px;
+
+}
+
+
+.firstname , .lastname , .email , .password{
+	width:90%;
+	padding:8px;
+	font-size: 15px;
+
+}
+table{
+	width:100%;
+	border:1px solid black;
+}
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+}
+td:hover{
+	background-color: lightblue;
+}
+
